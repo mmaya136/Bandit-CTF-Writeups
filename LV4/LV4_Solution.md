@@ -1,4 +1,4 @@
-<img width="681" height="253" alt="image" src="https://github.com/user-attachments/assets/07bf4bdd-7117-48c0-9a77-e2029172003f" /># Bandit Level 3 → Level 4
+# Bandit Level 3 → Level 4
 <img width="571" height="184" alt="image" src="https://github.com/user-attachments/assets/8209c2fb-50c4-4629-a5b0-14f72dd49476" />
 
 ## Objective
@@ -20,6 +20,7 @@ Once the hidden file is identified, its contents are displayed to retrieve the p
 cd inhere
 ls -la
 cat ...Hiding-From-You
+
 
 
 
