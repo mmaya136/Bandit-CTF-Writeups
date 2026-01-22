@@ -1,5 +1,6 @@
 # Bandit Level 14 → Level 15
 <img width="909" height="431" alt="image" src="https://github.com/user-attachments/assets/e477306c-6c6d-4b0b-9279-69d9a0dc9b70" />
+
 ## Objective
 The objective of this level is to obtain the password for the next level, **bandit15**.
 
@@ -19,3 +20,4 @@ If the password is correct, the server returns the password for **bandit15**.
 ## Commands Used
 ```bash
 nc localhost 30000
+
